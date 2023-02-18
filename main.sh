@@ -3,15 +3,15 @@
 #This script is created with an aim to notify you about class via discord or telegram , I mean if you are silly like me it will definately help you out :|
 
 # Integral part
-#TELEGRAM_BOT_TOKEN="5122571133:AAEejfjgTnQshASqn-8b_RGIQ24NlFPPgEU"
-#TELEGRAM_CHAT_ID="-1001653166920"
+#TELEGRAM_BOT_TOKEN=""
+#TELEGRAM_CHAT_ID=""
 #!/bin/bash
 
 # set your Discord webhook URL
 
 
 # Set the Discord webhook URL to send the notification message
-WEBHOOK_URL="https://discord.com/api/webhooks/1075499863741046864/XaLQI5UlLjFfm240jzt15ODK5bvmh8zEKeW5pMyKPvv0VIQew9yg2Dd27Kh-l1lIPJkE"
+WEBHOOK_URL=""
 
 # Set the path to your weekly routine file
 ROUTINE_FILE="/root/bashprac/notifier/weekly_routine.txt"
