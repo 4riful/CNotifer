@@ -1,0 +1,8 @@
+Math101 8:00am Mon
+English201 10:00am Mon
+History301 2:00pm Mon
+Science401 8:00am Tue
+Art501 10:00am Tue
+Music601 2:00pm Tue
+Gym701 8:00am Wed
+ComputerScience801 1:43am Thu
