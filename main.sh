@@ -34,7 +34,7 @@ while read LINE; do
   # Check if the class is about to start in 5 minutes
   if [ "$DAY_OF_WEEK" == "$CURRENT_DAY" ] && [ "$CLASS_TIME_IN_MINUTES" -eq "$(($CURRENT_TIME_IN_MINUTES + 5))" ]; then
     # Compose the notification message with the class name and start time
-    MESSAGE="Reminder: The class '$CLASS_NAME' starts at $START_TIME."
+    MESSAGE="Hey You 😒 !!!  The class  '$CLASS_NAME' will start at ⌚ $START_TIME. Have a boring time ,Bye 👋 !!!"
 
     # Send the notification message to the Discord webhook
     curl -H "Content-Type: application/json" -X POST -d "{\"content\": \"$MESSAGE\"}" $WEBHOOK_URL
