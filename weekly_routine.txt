@@ -1,8 +1,16 @@
-Math101 8:00am Mon
-English201 10:00am Mon
-History301 2:00pm Mon
-Science401 8:00am Tue
-Art501 10:00am Tue
-Music601 2:00pm Tue
-Gym701 8:00am Wed
-ComputerScience801 1:43am Thu
+Digital_Logic_Design 8.10am Mon
+Comprehensive_Chinese 10.20am Mon
+Probability_Theory 1.30pm Mon
+Data_Structure_and_Algorithm 3.40pm Mon
+Data_Structure_and_Algorithm 8.10am Tue
+Mobile_Application_Development 10.20am Tue
+China_Overview 1.30pm Tue
+Varsity_Physical_Education(fu*king.wushu)-4 3.40pm Tue
+Digital_Logic_Design 8.10am Wed
+Appreciation_of_Chinese classics 6.30pm wed
+Probability_Theory 8.10am Thu
+China_Overview 1.30pm Thu
+Mobile_Application_Development 8.10am Fri
+Comprehensive_Chinese 10.20am Fri
+Multimedia_technology_And_Application 3.40pm Fri
+Probability_Theory 6.30pm Fri
